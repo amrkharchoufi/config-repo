@@ -1,0 +1,2 @@
+spring.data.mongodb.database=Commandes
+server.port=8082
