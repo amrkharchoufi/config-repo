@@ -1,0 +1,2 @@
+spring.data.mongodb.database=Livreur
+server.port=8084
